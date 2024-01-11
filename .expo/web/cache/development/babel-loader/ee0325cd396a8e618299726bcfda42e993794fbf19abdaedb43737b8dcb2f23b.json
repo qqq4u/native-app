@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var DOMEN = \"192.168.0.102:8000\";","map":{"version":3,"names":["DOMEN"],"sources":["/Users/qqq/Documents/University/3course/5term/РИП/733/consts.js"],"sourcesContent":["export const DOMEN = \"192.168.0.102:8000\"\n"],"mappings":"AAAA,OAAO,IAAMA,KAAK,GAAG,oBAAoB"},"metadata":{},"sourceType":"module","externalDependencies":[]}
